@@ -12,6 +12,9 @@
 - 📫 How to reach me **padakantisrujanchary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p> Checkout my 
+  <a href="https://psc-portfolio.netlify.app/">Portfolio</a>
+</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/3603ab262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujan p" height="30" width="40" /></a>
 </p>
